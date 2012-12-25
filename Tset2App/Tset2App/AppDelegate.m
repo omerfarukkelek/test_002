@@ -21,7 +21,7 @@
     [self.window makeKeyAndVisible];
     return YES;
     
-    //faruk ikicisi
+    //faruk ikicisi sana ders oldu :D
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application
